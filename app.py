@@ -30,4 +30,4 @@ def download_video(link):
         return None, None
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
